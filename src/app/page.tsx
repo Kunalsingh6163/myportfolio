@@ -5,6 +5,7 @@ export default function Home() {
     <>
     <div>
       <h1>Kunal Singh</h1>
+      <p>using react</p>
     </div>
     </>
   );
